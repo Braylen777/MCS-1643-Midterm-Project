@@ -17,49 +17,57 @@
 <br>
 
 1. **What are the controls to your game? How do we play?**
-
+The goal of the game is to get your frog (player character) to the other side of the pond while avoiding obstacles
+W- Up
+A- Left
+D- Right
+Spacebar- Shield
 
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
-
+My creative addition to Frogger was adding a "shield mode" that can be used to make the Frog (Player) temporarily invincible. You can find this addition by pressing the spacebar on your keyboard but only when you have points to spare  
 
 
 <br>
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
-
+Dark Forest flower texture- 
+Simple Low Poly Nature Pack- https://assetstore.unity.com/packages/3d/environments/landscapes/simple-low-poly-nature-pack-157552
+Cartoon Low Poly City Pack Lite- https://assetstore.unity.com/packages/3d/environments/urban/cartoon-low-poly-city-pack-lite-166617
+Stylize Water Texture- https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-water-texture-153577
 
 <br>
 
 4. **Did you receive help from anyone outside this class?** <br> (list their names and what they helped with)
 
-
+Didn't have any help outside of class but have talked with other classmates on if their projects are going well
 
 <br>
 
 5. **Did you get help from any AI Code Assistants?** <br> (Tell us which .cs file to look in for the citation and describe what you learned)
 
-
+No AI Code Assistants used
 
 <br>
 
 6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
 
-
+https://discussions.unity.com/
+https://docs.unity3d.com/Manual/index.html
 
 <br>
 
 7. **What trouble did you have with this project?**
-
+My main trouble was getting my new mechanic to work without breaking everything else. Every problem led to multiple more problems but each problem had multiple solutions balancing everything out
 
 
 <br>
 
 8. **Is there anything else we should know?**
-
+The colors did not line up in the script and I don't really know why it only doesn't work for one color  
 
 
 
